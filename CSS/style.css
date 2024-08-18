@@ -341,7 +341,7 @@ a:hover:not(.logo) {
 
 
 .jointName_bg {
-    background-image: url("/IMG/index-bg.png");
+    background-image: url("../IMG/index-bg.png");
     padding: 80px 0px;
     background-size: cover;
 }
@@ -373,7 +373,7 @@ a:hover:not(.logo) {
 @media(max-width:992px) {
 
     .jointName_bg {
-        background-image: url("/IMG/index-bg-sm.png");
+        background-image: url("../IMG/index-bg-sm.png");
         padding-bottom: 48px;
     }
 
@@ -393,7 +393,7 @@ a:hover:not(.logo) {
 @media(max-width:576px) {
 
     .jointName_bg {
-        background-image: url("/IMG/index-bg-md.png");
+        background-image: url("../IMG/index-bg-md.png");
         padding-top: 40px;
         padding-bottom: 40px;
     }
